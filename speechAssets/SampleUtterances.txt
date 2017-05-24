@@ -1,0 +1,3 @@
+GetMemberPerformanceIntent get member performance
+GetMemberPerformanceIntent Yes
+GetMemberPerformanceIntent tell my performance
